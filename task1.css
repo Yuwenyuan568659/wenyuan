@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    background-color: whitesmoke;
+}
+
+.zero{
+    width: 30%;
+    padding-top: 30%;
+    background-color: rgb(255, 193, 23);
+    margin: 1%;
+    float: left;
+    border-radius: 5%;
+}
